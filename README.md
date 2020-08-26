@@ -1,8 +1,8 @@
-# tryhackme.com
+# [TryHackMe](https://tryhackme.com)
 Solutions and write-ups
 
 ## OpenVPN Configuration
-- go to https://tryhackme.com/access
+- go to the [access page](https://tryhackme.com/access)
 - select __VPN Server__ with the closest geographical region to you
 - click on __Download My Configuration File__ and save somewhere safe
 
