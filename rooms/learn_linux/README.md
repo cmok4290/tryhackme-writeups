@@ -21,9 +21,9 @@
 ## [Task 7] [Section 3: Basic File Operations] - ls
 - `ls`
 - `ls -a`
-3. What flag outputs all entries?
+1. What flag outputs all entries?
     - `-a`
-4. What flag outputs things in a "long list" format?
+2. What flag outputs things in a "long list" format?
     - `-l`
 
 ## [Task 8] [Section 3: Basic File Operations] - cat
