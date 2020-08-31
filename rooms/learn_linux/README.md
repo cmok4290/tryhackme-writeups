@@ -59,3 +59,50 @@
 ## [Task 14] [Section 4: Linux Operators] - ">"
 1. How would you output twenty to a file called test?
     - `echo twenty > test`
+
+## [Task 15] [Section 4: Linux Operators] - ">>"
+- `echo hello >> file`
+
+## [Task 16] [Section 4: Linux Operators] - "&&"
+- `ls && echo hello`
+- `echo hello >> file2 && cat file2`
+
+## [Task 17] [Section 4: Linux Operators] - "&"
+- `sleep 5`
+- `sleep 5 &`
+
+## [Task 18] [Section 4: Linux Operators] - "$"
+- `echo $USER`
+- `touch $USER`
+- `echo hi >> $USER`
+- `cat shiba2`
+- `export nootnoot=test`
+- `echo $nootnoot`
+1. How would you set nootnoot equal to 1111?
+    - `export nootnoot=1111`
+2. What is the value of the home environment variable?
+    - /home/shiba2
+
+## [Task 19] [Section 4: Linux Operators] - "|"
+- `cat test | grep noot`
+- `cat test | grep 123`
+- `cat -`
+
+## [Task 20] [Section 4: Linux Operators] - ";"
+- `dkhsgffgsafgfasdgfasfghkgdsgfs; ls`
+
+## [Task 21] Binary - shiba2
+- `echo test1234=$USER`
+1. What is shiba3's password?
+    - happynootnoises
+
+## [Task 22] [Section 5: Advanced File Operations] - Intro
+
+## [Task 23] [Section 5: Advanced File Operations] - A bit of background
+
+## [Task 24] [Section 5: Advanced File Operations] - chmod
+1. What permissions mean the user can read the file, the group can read and write to the file, and no one else can read, write or execute the file?
+    - 460
+2. What permissions mean the user can read, write, and execute the file, the group can read, write, and execute the file, and everyone else can read, write, and execute the file?
+    - 777
+
