@@ -4,7 +4,6 @@
 - Deploy
 
 ## [Task 2] Methodology
-
 ## [Task 3] [Section 1: SSH] - Intro
 
 ## [Task 4] [Section 1: SSH] - Putty and ssh
@@ -147,198 +146,6 @@
 1. How would I link /home/test/testfile to /tmp/test?
     - `ln /home/test/testfile /tmp/test`
 
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
-## [Task 30] [Section 5: Advanced File Operations] - ln
-- `ln file file2`
-- `ln -s file file3`
-1. How would I link /home/test/testfile to /tmp/test?
-    - `ln /home/test/testfile /tmp/test`
-
 ## [Task 31] [Section 5: Advanced File Operations] - find
 - `find /tmp`
 - `find /tmp -user root`
@@ -349,3 +156,59 @@
 3. How would you find all the files owned by paradox on the whole system?
     - `find / -user paradox`
 
+## [Task 32] [Section 5: Advanced File Operations] - grep
+- `find /* | grep test1234`
+- `grep hello test -n`
+1. What flag lists line numbers for every string found?
+    - `-n`
+2. How would I search for the string boop in the file aaaa in the directory /tmp?
+    - `grep boop /tmp/aaaa`
+
+## [Task 33] Binary - Shiba3
+1. What is shiba4's password?
+    - test1234
+
+## [Task 34] [Section 6: Miscellaneous] - Intro
+
+## [Task 35] [Section 6: Miscellaneous] - sudo
+1. How do you specify which user you want to run a command as?
+    - `-u`
+2. How would I run whoami as user jen?
+    - `sudo -u jen whoami`
+3. How do you list your current sudo privileges (what commands you can run, who you can run them as etc.)?
+    - `-l`
+
+## [Task 36] [Section 6: Miscellaneous] - Adding users and groups
+test1234
+## [Task 34] [Section 6: Miscellaneous] - Intro
+
+## [Task 35] [Section 6: Miscellaneous] - sudo
+1. How do you specify which user you want to run a command as?
+    - `-u`
+2. How would I run whoami as user jen?
+    - `sudo -u jen whoami`
+3. How do you list your current sudo privileges (what commands you can run, who you can run them as etc.)?
+    - `-l`
+
+## [Task 36] [Section 6: Miscellaneous] - Adding users and groups
+1. How would I add the user test to the group test?
+    - `sudo usermod -a -G test test`
+
+## [Task 37] [Section 6: Miscellaneous] - nano
+
+## [Task 38] [Section 6: Miscellaneous] - Basic shell scripting
+
+## [Task 39] [Section 6: Miscellaneous] - Important Files and Directories
+
+## [Task 40] [Section 6: Miscellaneous] - Installing packages (apt)
+
+## [Task 41] [Section 6: Miscellaneous] - Processes
+- `ps`
+- `ps -ef`
+- `top`
+
+## [Task 42] Fin ~
+
+## [Task 43] Bonus Challenge - The True Ending
+1. Finish this room off! What is the root.txt flag?
+    - 
