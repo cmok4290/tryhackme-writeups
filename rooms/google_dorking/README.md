@@ -15,24 +15,6 @@
     - Yea
 2. Does "tryhackme.com" pass the "Keywords Usage Test?" (Yea / Nay)
     - Nay
-
-## [Task 3] Enter: Search Engine Optimisation
-1. Using the SEO Site Checkup tool on "tryhackme.com", does TryHackMe pass the "Meta Title Test"? (Yea / Nay)
-    - Yea
-2. Does "tryhackme.com" pass the "Keywords Usage Test?" (Yea / Nay)
-    - Nay
-
-## [Task 3] Enter: Search Engine Optimisation
-1. Using the SEO Site Checkup tool on "tryhackme.com", does TryHackMe pass the "Meta Title Test"? (Yea / Nay)
-    - Yea
-2. Does "tryhackme.com" pass the "Keywords Usage Test?" (Yea / Nay)
-    - Nay
-
-## [Task 3] Enter: Search Engine Optimisation
-1. Using the SEO Site Checkup tool on "tryhackme.com", does TryHackMe pass the "Meta Title Test"? (Yea / Nay)
-    - Yea
-2. Does "tryhackme.com" pass the "Keywords Usage Test?" (Yea / Nay)
-    - Nay
 3. Use https://neilpatel.com/seo-analyzer/ to analyse http://googledorking.cmnatic.co.uk:
 4. With the same tool and domain in Question #3 (previous):
     - How many pages use "flash"?
@@ -63,11 +45,10 @@
     - route
 
 # [Task 6] What is Google Dorking?
-
-# [Task 6] What is Google Dorking?
 1. What would be the format used to query the site bbc.co.uk about flood defences?
     - site: bbc.co.uk flood defences
 2. What term would you use to search by file type?
     - filetype:
 3. What term can we use to look for login pages?
     - intitle: login
+
