@@ -42,3 +42,11 @@ Windows
 6. Print out the MOTD. What favorite beverage is shown?
   - dr pepper
 
+## [Task 7] [Day 2] Broken Authentication
+
+## [Task 8] [Day 2] Broken Authentication Practical
+1. What is the flag that you found in darren's account?
+  - fe86079416a21a3c99937fea8874b667
+2. Now try to do the same trick and see if you can login as arthur.
+3. What is the flag that you found in arthur's account?'
+  - d9ac0f7db4fda460ac3edeb75d75e16e
