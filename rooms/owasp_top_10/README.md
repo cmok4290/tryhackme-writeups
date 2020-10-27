@@ -73,3 +73,35 @@ Windows
 5. Login as the admin. What is the flag?
   - THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}
 
+## [Task 13] [Day 4] XML Exernal Entity
+
+## [Task 14] [Day 4] XML External Entity - eXtensible Markup Language
+1. Full form of XML
+  - xtensible Markup Language
+2. Is it compulsory to have XML prolog in XML documents?
+  - no
+3. Can we validate XML documents against a schema?
+  - yes
+4. How can we specify XML version and encoding in XML documents?
+  - XML prolog
+
+## [Task 15] [Day 4] XML External Entity - DTD
+1. How do you define a new ELEMENT?
+  - !ELEMENT
+2. How do you define a ROOT element?
+  - !DOCTYPE
+3. How do you define a new ENTITY?
+  - !ENTITY
+
+## [Task 16] [Day 4] XML External Entity - XXE Payload
+
+## [Task 17] [Day 4] XML External Entity - Exploiting
+1. Try to display your own name using any payload.
+2. See if you can read the /etc/passwd.
+3. What is the name of the user in /etc/passwd?
+  - falcon
+4. Where is falcon's SSH key located?
+  - /home/falcon/.ssh/id_rsa
+5. What are the first 18 characters for falcon's private key?
+  - MIIEogIBAAKCAQEA7b
+
