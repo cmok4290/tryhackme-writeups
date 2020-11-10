@@ -4,15 +4,13 @@
 
 ## [Task 2] Accessing machines
 
-## [Task 3] Daily Prizes
+## [Task 3] [Severity 1] Injection
 
-## [Task 4] [Day 1] Injection
-
-## [Task 5] [Day 1] OS Command Injection
+## [Task 4] [Severity 1] OS Command Injection
 - `whoami`
 - `;nc -e /bin/bash`
 
-## [Task 6] [Day 1] Command Injection Practical
+## [Task 5] [Severity 1] Command Injection Practical
 Commands to try
 Linux
 - `whoami`
@@ -42,22 +40,22 @@ Windows
 6. Print out the MOTD. What favorite beverage is shown?
   - dr pepper
 
-## [Task 7] [Day 2] Broken Authentication
+## [Task 6] [Severity 2] Broken Authentication
 
-## [Task 8] [Day 2] Broken Authentication Practical
+## [Task 7] [Severity 2] Broken Authentication Practical
 1. What is the flag that you found in darren's account?
   - fe86079416a21a3c99937fea8874b667
 2. Now try to do the same trick and see if you can login as arthur.
 3. What is the flag that you found in arthur's account?
   - d9ac0f7db4fda460ac3edeb75d75e16e
 
-## [Task 9] [Day 3] Sensitive Data Exposure (Introduction)
+## [Task 8] [Severity 3] Sensitive Data Exposure (Introduction)
 
-## [Task 10] [Day 3] Sensitive Data Exposure (Supporting Material 1)
+## [Task 9] [Severity 3] Sensitive Data Exposure (Supporting Material 1)
 
-## [Task 11] [Day 3] Sensitive Data Exposure (Supporting Material 2)
+## [Task 10] [Severity 3] Sensitive Data Exposure (Supporting Material 2)
 
-## [Task 12] [Day 3] Sensitive Data Exposure (Challenge)
+## [Task 11] [Severity 3] Sensitive Data Exposure (Challenge)
 1. Have a look around the web app. The developer has left themselves a note
    indicating that there is sensitive data in a specific directory. What is the
    name of the mentioned directory?
@@ -73,9 +71,9 @@ Windows
 5. Login as the admin. What is the flag?
   - THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}
 
-## [Task 13] [Day 4] XML Exernal Entity
+## [Task 12] [Severity 4] XML Exernal Entity
 
-## [Task 14] [Day 4] XML External Entity - eXtensible Markup Language
+## [Task 13] [Severity 4] XML External Entity - eXtensible Markup Language
 1. Full form of XML
   - xtensible Markup Language
 2. Is it compulsory to have XML prolog in XML documents?
@@ -85,7 +83,7 @@ Windows
 4. How can we specify XML version and encoding in XML documents?
   - XML prolog
 
-## [Task 15] [Day 4] XML External Entity - DTD
+## [Task 14] [Severity 4] XML External Entity - DTD
 1. How do you define a new ELEMENT?
   - !ELEMENT
 2. How do you define a ROOT element?
@@ -93,9 +91,9 @@ Windows
 3. How do you define a new ENTITY?
   - !ENTITY
 
-## [Task 16] [Day 4] XML External Entity - XXE Payload
+## [Task 15] [Severity 4] XML External Entity - XXE Payload
 
-## [Task 17] [Day 4] XML External Entity - Exploiting
+## [Task 16] [Severity 4] XML External Entity - Exploiting
 1. Try to display your own name using any payload.
 2. See if you can read the /etc/passwd.
 3. What is the name of the user in /etc/passwd?
@@ -105,3 +103,11 @@ Windows
 5. What are the first 18 characters for falcon's private key?
   - MIIEogIBAAKCAQEA7b
 
+## [Task 17] [Severity 5] Broken Access Control
+- [reference to scenarios](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A5-Broken_Access_Control)
+
+## [Task 18] [Severity 5] Broken Access Control (IDOR Challenge)
+1. Read and understand how IDOR works.
+2. Deploy the machine and go to http://machine-ip - Login with the username being _noot_ and the password _test1234_.
+3. Look at other user's notes. What is the flag?
+- flag{fivefourthree}
