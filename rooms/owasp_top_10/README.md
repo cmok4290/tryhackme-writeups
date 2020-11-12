@@ -111,3 +111,10 @@ Windows
 2. Deploy the machine and go to http://machine-ip - Login with the username being _noot_ and the password _test1234_.
 3. Look at other user's notes. What is the flag?
 - flag{fivefourthree}
+
+## [Task 19] [Severity 6] Security Misconfiguration
+- [OWASP top 10 entry for Security Misconfiguration](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A6-Security_Misconfiguration)
+
+1. Deploy the VM
+2. Hack into the webapp, and find the flag!
+    - thm{4b9513968fd564a87b28aa1f9d672e17} 
