@@ -108,7 +108,7 @@ Windows
 
 ## [Task 18] [Severity 5] Broken Access Control (IDOR Challenge)
 1. Read and understand how IDOR works.
-2. Deploy the machine and go to http://machine-ip - Login with the username being _noot_ and the password _test1234_.
+2. Deploy the machine and go to http://MACHINE_IP/ - Login with the username being _noot_ and the password _test1234_.
 3. Look at other user's notes. What is the flag?
 - flag{fivefourthree}
 
@@ -118,3 +118,16 @@ Windows
 1. Deploy the VM
 2. Hack into the webapp, and find the flag!
     - thm{4b9513968fd564a87b28aa1f9d672e17} 
+
+## [Task 20] [Severity 7] Cross-site Scripting
+1. Deploy the VM
+2. Navigate to http://MACHINE_IP/ in your browser and click on the "Reflected XSS" tab on the navbar; craft a reflected XSS payload that will cause a popup saying "Hello".
+    - ThereIsMoreToXSSThanYouThink
+3. On the same reflective page, craft a reflected XSS payload that will cause a popup with your machines IP address.
+    - ReflectiveXss4TheWin
+4. Now navigate to http://MACHINE_IP/stored in your browser and make an account. Then add a comment and see if you can insert some of your own HTML.
+    - HTML_T4gs
+5. On the same page, create an alert popup box appear on the page with your document cookies.
+    - W3LL_D0N3_LVL2
+6. Change "XSS Playground" to "I am a hacker" by adding a comment and using Javascript.
+    - websites_can_be_easily_defaced_with_xss 
