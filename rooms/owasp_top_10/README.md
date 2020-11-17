@@ -131,3 +131,19 @@ Windows
     - W3LL_D0N3_LVL2
 6. Change "XSS Playground" to "I am a hacker" by adding a comment and using Javascript.
     - websites_can_be_easily_defaced_with_xss 
+
+## [Task 21] [Severity 8] Insecure Deserialization
+1. Who developed the Tomcat application?
+    - The Apache Software Foundation
+2. what type of attack that crashes services can be performed with insecure deserialization?
+    - denial of service
+
+## [Task 22] [Severity 8] Insecure Deserialization - Objects
+1. Select the correct term of the following statement:
+    if a dog was sleeping, would this be:
+    A) A State
+    B) A Behaviour
+    - A Behaviour
+
+## [Task 23] [Severity 8] Insecure Deserialization - Deserialization
+
