@@ -146,4 +146,20 @@ Windows
     - A Behaviour
 
 ## [Task 23] [Severity 8] Insecure Deserialization - Deserialization
+1. What is the name of the base-2 formatting that data is sent across a network as?
+    - binary
+
+## [Task 24] [Severity 8] Insecure Deserialization - Cookies
+1. If a cookie had the path of _webapp.com/login_, what would the URL that the user has to visit be?
+    - webapp.com/login
+2. What is the acronym for the web technology that _Secure_ cookies work over?
+    - https
+
+## [Task 25] [Severity 8] Insecure Deserialization - Cookies Practical
+1. 1st flag (cookie value)
+    - THM{good_old_base64_huh}
+2. 2nd flag (admin dashboard)
+    - THM{heres_the_admin_flag} 
+
+## [Task 26] [Severity 8] Insecure Deserialization - Code Execution
 
