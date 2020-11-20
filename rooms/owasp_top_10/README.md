@@ -162,4 +162,17 @@ Windows
     - THM{heres_the_admin_flag} 
 
 ## [Task 26] [Severity 8] Insecure Deserialization - Code Execution
-
+1. First, change the value of the userType cookie from "admin" to "user" and return to http://MACHINE_IP/myprofile.
+2. Then, left-click on the URL in "Exchange your vim".
+3. Once you have done this, left-click on the URL in "Provide your feedback!".
+4. First, we need to set up a netcat listener.
+    - `nc -lvnp 4444`
+5. Create a python file to paste into, I have used "rce.py".
+    - [github](https://gist.github.com/CMNatic/af5c19a8d77b4f5d8171340b9c560fc3)
+    - replace your VPN IP
+    - `python3 rce.py`
+6. Copy output between single quotes and paste into "encodedPayload" cookie in your browser.
+7. Ensure our netcat listener is still running.
+8. Refresh the page. It will hang, refer back to your netcat listener.
+9. If you have performed the steps correctly, you will now have a remote shell to your instance. No privilege escalation involved, look for the flag.txt flag!
+    - 4a69a7ff9fd68
