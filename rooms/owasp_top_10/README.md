@@ -176,3 +176,12 @@ Windows
 8. Refresh the page. It will hang, refer back to your netcat listener.
 9. If you have performed the steps correctly, you will now have a remote shell to your instance. No privilege escalation involved, look for the flag.txt flag!
     - 4a69a7ff9fd68
+
+## [Task 27] [Severity 9] Components With Known Vulnerabilities - Intro
+- [exploit-db](https://www.exploit-db.com/exploits/41962)
+
+## [Task 28] [Severity 9] Components With Known Vulnerabilities - Exploit
+- [exploit-db](https://www.exploit-db.com/exploits/47837)
+
+## [Task 29] [Severity 9] Components With Known Vulnerabilities - Lab
+
