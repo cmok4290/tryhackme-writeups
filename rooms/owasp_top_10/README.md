@@ -184,4 +184,6 @@ Windows
 - [exploit-db](https://www.exploit-db.com/exploits/47837)
 
 ## [Task 29] [Severity 9] Components With Known Vulnerabilities - Lab
+1. How many characters are in /etc/passwd (use `wc -c /etc/passwd` to get the answer)
+    - 1611
 
