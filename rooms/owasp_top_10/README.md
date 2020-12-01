@@ -187,3 +187,11 @@ Windows
 1. How many characters are in /etc/passwd (use `wc -c /etc/passwd` to get the answer)
     - 1611
 
+## [Task 30] [Severity 10] Insufficient Logging and Monitoring
+1. What IP address is the attacker using?
+    - 49.99.13.16
+2. What kind of attack is being carried out?
+    - brute force 
+
+## [Task 31] What's Next?
+
