@@ -26,3 +26,16 @@
 6. What is the flag you're given when the line is fully active?
     - THM{MjY0Yzg5NTJmY2Q1NzM1NjBmZWFhYmQy}
 
+## [Day 2] Web Exploitation: The Elf Strikes Back!
+- [php-reverse-shell.php](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php)
+1. What string of text needs adding to the URL to get access to the upload page?
+    - ?id=ODIzODI5MTNiYmYw
+2. What type of file is accepted by the site?
+    - image
+3. Bypass the filter and upload a reverse shell. In which directory are the uploaded files stored?
+    - /uploads/
+4. Activate your reverse shell and catch it in a netcat listener!
+    - `sudo nc -lvnp 443`
+5. What is the flag in /var/www/flag.txt?
+    - THM{MGU3Y2UyMGUwNjExYTY4NTAxOWJhMzhh}
+
