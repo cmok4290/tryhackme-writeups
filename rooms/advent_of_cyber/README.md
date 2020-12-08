@@ -40,8 +40,6 @@
     - THM{MGU3Y2UyMGUwNjExYTY4NTAxOWJhMzhh}
 
 ## [Day 3] Web Exploitation: Christmas Chaos
-
-## [Day 3] Web Exploitation: Christmas Chaos
 1. Deploy your AttackBox (the blue "Start AttackBox" button) and the tasks machine (green button on this task) if you haven't already. Once both have deployed, open Firefox on the AttackBox and copy/paste the machines IP (MACHINE_IP) into the browser search bar.
 2. Use BurpSuite to brute force the login form. Use the following lists for the default credentials:
 Username | Password
@@ -52,3 +50,14 @@ user | 12345
 
 Use the correct credentials to log in to the Santa Sleigh Tracker app. Don't forget to turn off Foxyproxy once BurpSuite has finished the attack!
     - THM{885ffab980e049847516f9d8fe99ad1a}
+
+## [Day 4] Web Exploitation: Santa's Watching
+1. Deploy your AttackBox (the blue "Start AttackBox" button) and the tasks machine (green button on this task) if you haven't already. Once both have deployed, open FireFox on the AttackBox and copy/paste the machines IP (MACHINE_IP) into the browser search bar.
+2. Given the URL "http://shibes.xyz/api.php", what would the entire wfuzz command look like to query the "breed" parameter using the wordlist "big.txt" (assume that "big.txt" is in your current directory)
+
+Note: For legal reasons, do not actually run this command as the site in question has not consented to being fuzzed!
+    - `wfuzz -c -z file,big.txt http://shibes.xyz/api.php?breed=FUZZ`
+3. Use GoBuster (against the target you deployed -- not the shibes.xyz domain) to find the API directory. What file is there?
+    - site-log.php
+4. Fuzz the date parameter on the file you found in the API directory. What is the flag displayed in the correct post?
+    - THM{D4t3_AP1} 
