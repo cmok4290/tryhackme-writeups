@@ -61,3 +61,17 @@ Note: For legal reasons, do not actually run this command as the site in questio
     - site-log.php
 4. Fuzz the date parameter on the file you found in the API directory. What is the flag displayed in the correct post?
     - THM{D4t3_AP1} 
+
+## [Day 5] Web Exploitation: Someone stole Santa's gift list!
+1. Without using directory brute forcing, what's Santa's secret login panel?
+    - /santapanel
+2. Visit Santa's secret login panel and bypass the login using SQLi.
+3. How many entries are there in the gift database?
+    - 22
+4. What did Paul ask for?
+    - github ownership
+5. What is the flag?
+    - thmfox{All_I_Want_for_Christmas_Is_You}
+6. What is admin's password?
+    - EhCNSWzzFP6sc7gB
+
