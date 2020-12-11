@@ -75,3 +75,18 @@ Note: For legal reasons, do not actually run this command as the site in questio
 6. What is admin's password?
     - EhCNSWzzFP6sc7gB
 
+## [Day 6] Web Exploitation: Be careful with what you wish on Christmas night
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Input_Validation_Cheat_Sheet.md)
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection)
+- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list)
+- [Learn OWASP Zap](https://tryhackme.com/room/learnowaspzap)
+1. Deploy your AttackBox (the blue "Start AttackBox" button) and the tasks machine (green button on this task) if you haven't already. Once both have deployed, open Firefox on the AttackBox and copy/paste the machines IP (http://MACHINE_IP:5000) into the browser search bar (the webserver is running on port 5000, so make sure this is included in your web requests).
+2. What vulnerability type was used to exploit the application?
+    - stored cross-site scripting
+3. What query string can be abused to craft a reflected XSS?
+    - q
+4. Launch the OWASP ZAP Application
+5. Run a ZAP (zaproxy) automated scan on the target. How many XSS alerts are in the scan?
+    - 2
+6. Explore the XSS alerts that ZAP has identified, are you able to make an alert appear on the "Make a wish" website?
+
