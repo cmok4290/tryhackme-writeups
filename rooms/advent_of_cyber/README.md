@@ -118,4 +118,13 @@ Note: For legal reasons, do not actually run this command as the site in questio
 7. Now use different scripts against the remaining services to discover any further information about them.
 
 ## [Day 9] Networking: Anyone can be Santa!
+1. Name the directory on the FTP server that has data accessible by the "anonymous" user
+    - public
+2. What script gets executed within this directory?
+    - backup.sh
+3. What movie did Santa have on his Christmas shopping list?
+    - The Polar Express
+4. Re-upload this script to contain malicious data (just like we did in section 9.6. Output the contents of /root/flag.txt! Note that the script that we have uploaded may take a minute to return a connection. If it doesn't after a couple of minutes, double-check that you have set up a Netcat listener on the device that you are working from, and have provided the TryHackMe IP of the device that you are connecting from.
+    - 
+
 
