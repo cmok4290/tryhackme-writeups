@@ -127,4 +127,13 @@ Note: For legal reasons, do not actually run this command as the site in questio
 4. Re-upload this script to contain malicious data (just like we did in section 9.6. Output the contents of /root/flag.txt! Note that the script that we have uploaded may take a minute to return a connection. If it doesn't after a couple of minutes, double-check that you have set up a Netcat listener on the device that you are working from, and have provided the TryHackMe IP of the device that you are connecting from.
     - 
 
+## [Day 10] Networking: Don't be sElfish!
+1. Using enum4linux, how many users are there on the Samba server (MACHINE_IP)?
+    - 3
+2. Now how many "shares" are there on the Samba server?
+    - 4
+3. Use smbclient to try to login to the shares on the Samba server (MACHINE_IP). What share doesn't require a password?
+    - tbfc-santa
+4. Log in to this share, what directory did ElfMcSkidy leave for Santa?
+    - jingle-tunes
 
