@@ -103,3 +103,19 @@ Note: For legal reasons, do not actually run this command as the site in questio
     - ssh
 6. Analyse "pcap3.pcap" and recover Christmas! What is on Elf McSkidy's wishlist that will be used to replace Elf McEager?
     - Rubber ducky
+
+## [Day 8] Networking: What's Under the Christmas Tree?
+1. When was Snort created?
+    - 1998
+2. Using Nmap on MACHINE_IP, what are the port numbers of the three services running?  (Please provide your answer in ascending order/lowest -> highest, separated by a comma) 
+    - 80,2222,3389
+3. Run a scan and provide the `-Pn` flag to ignore ICMP being used to determine if the host is up
+4. Experiment with different scan settings such as `-A` and `-sV` whilst comparing the outputs given.
+5. Use Nmap to determine the name of the Linux distribution that is running, what is reported as the most likely distribution to be running?
+    - Ubuntu
+6. Use Nmap's Network Scripting Engine (NSE) to retrieve the "HTTP-TITLE" of the webserver. Based on the value returned, what do we think this website might be used for?
+    - blog
+7. Now use different scripts against the remaining services to discover any further information about them.
+
+## [Day 9] Networking: Anyone can be Santa!
+
