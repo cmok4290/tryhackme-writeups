@@ -125,7 +125,7 @@ Note: For legal reasons, do not actually run this command as the site in questio
 3. What movie did Santa have on his Christmas shopping list?
     - The Polar Express
 4. Re-upload this script to contain malicious data (just like we did in section 9.6. Output the contents of /root/flag.txt! Note that the script that we have uploaded may take a minute to return a connection. If it doesn't after a couple of minutes, double-check that you have set up a Netcat listener on the device that you are working from, and have provided the TryHackMe IP of the device that you are connecting from.
-    - 
+    - THM{even_you_can_be_santa}
 
 ## [Day 10] Networking: Don't be sElfish!
 1. Using enum4linux, how many users are there on the Samba server (MACHINE_IP)?
