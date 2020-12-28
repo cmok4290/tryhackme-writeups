@@ -147,3 +147,16 @@ Note: For legal reasons, do not actually run this command as the site in questio
 5. Use this executable to launch a system shell as root. What are the contents of the file located at /root/flag.txt?
     - thm{2fb10afe933296592}
 
+## [Day 12] Networking: Ready, set, elf.
+1. What is the version number of the web server?
+    - 9.0.17
+2. What CVE can be used to create a Meterpreter entry onto the machine? (Format: CVE-XXXX-XXXX)
+    - CVE-2019-0232
+3. Set your Metasploit settings appropriately and gain a foothold onto the deployed machine.
+4. What are the contents of flag1.txt?
+    - thm{whacking_all_the_elves}
+5. Looking for a challenge? Try to find out some of the vulnerabilities present to escalate your privileges!
+
+## [Day 13] Special by John Hammond: Coal for Christmas
+1. What old, deprecated protocol and service is running?
+    - telnet
