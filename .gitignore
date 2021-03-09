@@ -1,3 +1,17 @@
 env/
 .env
 *.db
+*.jpg
+*.sh
+*.pcap
+*.zip
+*.txt
+*.py
+*.php
+*.jpeg
+*.png
+*.pdf
+*.svg
+*.c
+*.xml
+*.id_rsa
