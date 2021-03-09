@@ -172,3 +172,27 @@ Note: For legal reasons, do not actually run this command as the site in questio
     - firefart
 7. What is the MD5 hash output?
     - 8b16f00dd3b51efadb02c1df7f8427cc
+
+## [Day 14] Special by TheCyberMentor: Where's Rudolph?
+- https://namechk.com/
+- https://whatsmyname.app/
+- https://namecheckup.com/
+- https://github.com/WebBreacher/WhatsMyName
+- https://github.com/sherlock-project/sherlock
+
+1. What URL will take me directly to Rudolph's Reddit comment history?
+    - https://www.reddit.com/user/IGuidetheClaus2020/comments/
+2. According to Rudolph, where was he born?
+    - Chicago
+3. Rudolph mentions Robert. Can you use Google to tell me Robert's last name?
+    - May
+4. On what other social media platform might Rudolph have an account?
+    - twitter
+5. What is Rudolph's username on that platform?
+    - @IGuideClaus2020
+6. What appears to be Rudolph's favorite TV show right now?
+    - Bachelorette
+7. Based on Rudolph's post history, he took part in a parade. Where did the parade take place?
+    - Chicago
+8. Okay, you found the city, but where specifically was one of the photos taken?
+    - 
