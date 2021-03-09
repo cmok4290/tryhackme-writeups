@@ -45,3 +45,14 @@
     - RSA
 2. Crack the password with John The Ripper and rockyou, what's the passphrase for the key?
     - delicious
+
+## [Task 10] Explaining Diffie Hellman Key Exchange
+
+## [Task 11] PGP, GPG and AES
+1. You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?
+    - Pineapple
+
+## [Task 12] The Future - Quantum Computers and Encryption
+- https://doi.org/10.6028/NIST.IR.8105
+- Crytography Apocalypse by Roger A. Grimes
+
