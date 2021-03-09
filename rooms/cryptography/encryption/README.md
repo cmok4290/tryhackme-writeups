@@ -41,4 +41,7 @@
     - Cloudflare
 
 ## [Task 9] SSH Authentication
-
+1. What algorithm does the key use?
+    - RSA
+2. Crack the password with John The Ripper and rockyou, what's the passphrase for the key?
+    - delicious
