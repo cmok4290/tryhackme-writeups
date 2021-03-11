@@ -37,3 +37,33 @@
     - rex
 17. It's fairly common to create subsets and specific views for less technical Splunk users, what are these called?
     - pivot table
+18. What is the proper name of the time date field in Splunk?
+    - \_time
+19. How do I specifically include only the first few values found within my search?
+    - head
+20. More useful than you would otherwise imagine, how do I flip the order that results are returned in?
+    - reverse
+21. When viewing search results, it's often useful to rename fields using user-provided tables of values. What command do we include within a search to do this?
+    - lookup 
+22. We can collect events into specific time frames to be used in further processing. What command do we include within a search to do just that?
+    - bucket
+23. We can also define data into specific sections of time to be used within chart commands, what command do we use to set these lengths of time? This is different from the previous question as we are no longer collecting for further processing.
+    - span
+24. When producing statistics regarding a search it's common to number the occurrences of an event, what command do we include to do this?
+    - count
+25. Last but not least, what is the website where you can find the Splunk apps at?
+    - splunkbase.splunk.com
+26. We can also add new features into Splunk, what are these called?
+    - apps
+27. What does SOC stand for?
+    - Security Operations Center
+28. What does SIEM stand for?
+    - Security Information and Event Management
+29. How about BOTS?
+    - Boss of the SOC
+30. And CIM?
+    - Common Information Model
+31. What is the website where you can find the Splunk forums at?
+    - answers.splunk.com
+
+
