@@ -66,4 +66,50 @@
 31. What is the website where you can find the Splunk forums at?
     - answers.splunk.com
 
+## [Task 3] BOTS!
+- [link](https://www.splunk.com/blog/2017/09/06/what-you-need-to-know-about-boss-of-the-soc.html)
+
+## [Task 4] Halp, I'm drowning in logs!
+
+## [Task 5] Advanced Persistent Threat
+1. What IP is scanning our web server?
+    - 40.80.148.42
+2. What web scanner scanned the server?
+    - Acunetix
+3. What is the IP address of our web server?
+    - 192.168.250.70
+4. What content management system is imreallynotbatman.com using?
+    - joomla
+5. What address is performing the brute-forcing attack against our website?
+    - 23.22.63.114
+6. What was the first password attempted in the attack?
+    - 12345678
+7. One of the passwords in the brute force attack is James Brodsky's favorite Coldplay song. Which six character song is it?
+    - yellow
+8. What was the correct password for admin access to the content management system running imreallynotbatman.com?
+    - batman
+9. What was the average password length used in the password brute forcing attempt rounded to closest whole integer?
+    - 6
+10. How many seconds elapsed between the time the brute force password scan identified the correct password and the compromised login rounded to 2 decimal places?
+    - 92.17
+11. How many unique passwords were attempted in the brute force attempt?
+    - 412
+12. What is the name of the executable uploaded by P01s0n1vy?
+    - 3791.exe
+13. What is the MD5 hash of the executable uploaded?
+    - AAE3F5A29935E6ABCC2C2754D12A9AF0
+14. What is the name of the file that defaced the imreallynotbatman.com website?
+    - poisonivy-is-coming-for-you-batman.jpeg
+15. This attack used dynamic DNS to resolve to the malicious IP. What fully qualified domain name (FQDN) is associated with this attack?
+    - prankglassinebracket.jumpingcrab.com
+16. What IP address has P01s0n1vy tied to domains that are pre-staged to attack Wayne Enterprises?
+    - 23.22.63.114
+17. Based on the data gathered from this attack and common open source intelligence sources for domain names, what is the email address that is most likely associated with P01s0n1vy APT group?
+    - lillian.rose@po1s0n1vy.com
+18. GCPD reported that common TTPs (Tactics, Techniques, Procedures) for the P01s0n1vy APT group if initial compromise fails is to send a spear phishing email with custom malware attached to their intended target. This malware is usually connected to P01s0n1vy’s initial attack infrastructure. Using research techniques, provide the SHA256 hash of this malware.
+    - 9709473ab351387aab9e816eff3910b9f28a7a70202e250ed46dba8f820f34a8
+19. What special hex code is associated with the customized malware discussed in the previous question?
+    - 53 74 65 76 65 20 42 72 61 6e 74 27 73 20 42 65 61 72 64 20 69 73 20 61 20 70 6f 77 65 72 66 75 6c 20 74 68 69 6e 67 2e 20 46 69 6e 64 20 74 68 69 73 20 6d 65 73 73 61 67 65 20 61 6e 64 20 61 73 6b 20 68 69 6d 20 74 6f 20 62 75 79 20 79 6f 75 20 61 20 62 65 65 72 21 21 21
+20. What does this hex code decode to?
+    - Steve Brant's Beard is a powerful thing. Find this message and ask him to buy you a beer!!!
 
